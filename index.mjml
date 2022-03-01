@@ -1,0 +1,102 @@
+<mjml>
+    <mj-head>
+        <mj-title>Schaefer Advertising</mj-title>
+        <mj-attributes>
+            <mj-all padding="0px" font-family="Cambria"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column width="600px">
+                <mj-image src="header.jpg" alt="header" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="580px">
+                <mj-image src="hero-image.jpg" alt="hero image" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="540px">
+                <mj-text font-size="30px" padding="20px 0">
+                    Ideas that connect People
+                </mj-text>
+
+                <mj-text line-height="24px">
+                    <span style="font-weight:bold">At Schaefer Advertising, we're experts at conntecting people to exciting experiences, thought-provoking ideas and art that moves them.</span> Our ideas adapt to the challenges you face today and our strategies help your brand navigate the hurdles tomorrow.
+                    Our ideas adapt to the challenges you face today and our strategies help your brand navigate the hurdles tomorrow.
+                </mj-text>
+
+                <mj-text font-size="20px" font-weight="700" padding="20px 0">
+                    Leveraging new technology for campaign sucess
+                </mj-text>
+            </mj-column>
+        </mj-section>
+            
+        <mj-section>
+            <mj-column width="270px">
+                <mj-image width="240px" align="left" src="smartphone.jpg" alt="phone" />
+            </mj-column>
+
+            <mj-column width="270px">
+                <mj-text line-height="26px">
+                    When the pandemic struck and audiences were hesitant to leave their homes, we partnered with Kimbell Art Museum to bring thier newest exhibition to the community with agmented reality.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="540px">
+               <mj-text padding="30px 0" line-height="26px">
+                   We're a team of experts whose insights inform your business model to thrive under <br> any challenge.
+               </mj-text>
+
+               <mj-text font-size="24px" align="center" line-height="26px">
+                   We're Schaefer Advertising <br> and we can't wait to meet you.
+               </mj-text>
+
+               <mj-button font-family="Helvetica" background-color="#D22B2B" color="white" padding="25px 0">
+                   LEARN MORE
+               </mj-button> 
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#F5E9CD">
+            <mj-column width="270px" padding="30px 0">
+                <mj-image width="240px" align="left" src="profile-picture.jpg" alt="profile picture" />
+            </mj-column>
+
+            <mj-column width="270px" padding="30px 0">
+                <mj-text line-height="26px">
+                    Connect with one of our marketing experts to learn how we can help your brand connect with your audience.
+                </mj-text>
+
+                <mj-button padding="20px 0" align="left" font-family="Helvetica" background-color="#D22B2B" color="white">
+                   LETS CHAT
+               </mj-button> 
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="black" padding="30px 0">
+            <mj-column width="300px">
+                <mj-text font-size="25px" font-weight="400" color="white" align="center">
+                    Meet us @SchaeferAdCo
+                </mj-text>
+
+                <mj-divider width="35%" border-color="#D22B2B" padding="25px 0 20px 0" />
+
+                <mj-image width="100px" src="white-logo.png" alt="logo" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="black" padding-bottom="30px">
+            <mj-column width="500px">
+                <mj-text align="center" color="white">
+                    Schaefer Advertising Co., 1228 S. Adams Street, Fort Worth, TX 76104, 817-226-4332
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
